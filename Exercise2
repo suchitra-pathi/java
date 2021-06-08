@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class Exercise 2{
+public class Exercise2{
 
-    public static void main(String[] Strings) {
+    public static void main(String[] args) {
 
 
         double minutesInYear = 60 * 24 * 365;
